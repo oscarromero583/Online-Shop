@@ -8,7 +8,7 @@ function Home() {
         <div>
             <div className="home">
                 <div className="home_container">
-                    <img src={RomeroImage} alt="Home Image" className="home_image"/>
+                    <img src={RomeroImage} alt="Home" className="home_image"/>
 
                     <div className="home_row">
                         <Product

@@ -22,7 +22,7 @@ function Product({id, title, image, price, rating}) {
                     </div>
                 </div>
 
-                <img src={image}/>
+                <img src={image} />
 
                 <button>Add to Basket</button>
             </div>
