@@ -8,7 +8,7 @@ function CheckoutProduct () {
                 <img src="https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/22/545695/1.jpg?0441" className="checkoutProduct_image"/>
 
 
-                <div className="product_info">
+                <div className="checkoutProduct_info">
                     <p className="checkoutProduct_title">
                         Lorem jr oho ojvhvr ijvh kjfhvi ijks iuh sir siuvhsi ihvve sjhvnir sijb si shjb iuhb sjbsfh  siubsi siujfbv ijbsuhsb s isi sis is
                     </p>
